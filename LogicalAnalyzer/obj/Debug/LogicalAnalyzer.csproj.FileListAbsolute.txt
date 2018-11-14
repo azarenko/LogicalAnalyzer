@@ -1,0 +1,9 @@
+D:\projects\LogicalAnalyzer\LogicalAnalyzer\bin\Debug\LogicalAnalyzer.exe
+D:\projects\LogicalAnalyzer\LogicalAnalyzer\bin\Debug\LogicalAnalyzer.pdb
+D:\projects\LogicalAnalyzer\LogicalAnalyzer\obj\Debug\LogicalAnalyzer.csprojAssemblyReference.cache
+D:\projects\LogicalAnalyzer\LogicalAnalyzer\obj\Debug\LogicalAnalyzer.Form1.resources
+D:\projects\LogicalAnalyzer\LogicalAnalyzer\obj\Debug\LogicalAnalyzer.Properties.Resources.resources
+D:\projects\LogicalAnalyzer\LogicalAnalyzer\obj\Debug\LogicalAnalyzer.csproj.GenerateResource.cache
+D:\projects\LogicalAnalyzer\LogicalAnalyzer\obj\Debug\LogicalAnalyzer.csproj.CoreCompileInputs.cache
+D:\projects\LogicalAnalyzer\LogicalAnalyzer\obj\Debug\LogicalAnalyzer.exe
+D:\projects\LogicalAnalyzer\LogicalAnalyzer\obj\Debug\LogicalAnalyzer.pdb
